@@ -62,6 +62,7 @@ books:
     - Clockwork Orange
     - Of mice and men
     - Down and out in Paris and London
+    - Hit Refresh
   2021:
     - Game Of Thrones 1
     - Game of Thrones 2
@@ -139,8 +140,10 @@ books:
     - Brief answers to the big questions; Stephen Hawking
     - A brief history of time; Stephen Hawking
     - Surely You're Joking, Mr. Feynman!
-    - The Joke; Milan Kundera
     - Clean Code
+    - "Do No Harm: Stories of Life, Death and Brain Surgery"
+    - "This is Going to Hurt: Secret Diaries of a Junior Doctor by Adam Kay"
+    - Better; Atul Gawande
   2019:
     - Into the Wild
     - Trickster makes this World
@@ -151,6 +154,7 @@ books:
     - The architecture of Happiness; Alain de Botton
     - The Plague; Albert Camus
     - The Rebel; Albert Camus
+    - The Joke; Milan Kundera
   2018-and-before:
     - Beyond Good and Evil; Friedrich Nietzsche
     - Homo Sapiens; Yuval Noah Harari
